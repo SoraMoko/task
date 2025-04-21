@@ -1,5 +1,96 @@
 [
-    { "title": "Google",  "url": "https://www.google.com" },
-    { "title": "GitHub",  "url": "https://github.com" },
-    { "title": "YouTube", "url": "https://www.youtube.com" }
-  ]
+  {
+    "group": "ポータル",
+    "items": [
+      {
+        "title": "Acsu",
+        "url": "https://shinshuuniversity.sharepoint.com/sites/acsu/SitePages/Home.aspx?wa=wsignin1.0"
+      },
+      {
+        "title": "メール",
+        "url": "https://mail.google.com/mail"
+      },
+      {
+        "title": "ネットワーク接続",
+        "url": "https://login.shinshu-u.ac.jp/cgi-bin/Login.cgi"
+      },
+      {
+        "title": "就職支援",
+        "url": "https://lms.ealps.shinshu-u.ac.jp/common/course/view.php?id=30"
+      }
+    ]
+  },
+  {
+    "group": "よく使うサービス",
+    "items": [
+      {
+        "title": "Google",
+        "url": "https://www.google.com"
+      },
+      {
+        "title": "GitHub",
+        "url": "https://github.com"
+      },
+      {
+        "title": "YouTube",
+        "url": "https://www.youtube.com"
+      }
+    ]
+  },
+  {
+    "group": "水曜日",
+    "items": [
+      {
+        "title": "オンライン：応用情報工学特論",
+        "url": "https://lms.ealps.shinshu-u.ac.jp/2025/st/course/view.php?id=1549"
+      }
+    ]
+  },
+  {
+    "group": "木曜日",
+    "items": [
+      {
+        "title": "実践セキュアIoTシステム設計開発特論",
+        "url": "https://lms.ealps.shinshu-u.ac.jp/2025/st/course/view.php?id=1519"
+      },
+      {
+        "title": "Drive",
+        "url": "https://drive.google.com/drive/u/6/folders/1_-zuuic7SNbKF0qwMiT2dKsL0t713AxM"
+      }
+    ]
+  },
+  {
+    "group": "金曜日",
+    "items": [
+      {
+        "title": "情報理論特論",
+        "url": "https://lms.ealps.shinshu-u.ac.jp/2025/st/course/view.php?id=1450"
+      },
+      {
+        "title": "数理ソフトウェア工学特論",
+        "url": "https://lms.ealps.shinshu-u.ac.jp/2025/st/course/view.php?id=1520"
+      },
+      {
+        "title": "実験的工学特論",
+        "url": "https://lms.ealps.shinshu-u.ac.jp/2025/st/course/view.php?id=1286"
+      }
+    ]
+  },
+  {
+    "group": "不定期",
+    "items": [
+      {
+        "title": "大学院と社会",
+        "url": "https://lms.ealps.shinshu-u.ac.jp/2025/st/course/view.php?id=4"
+      },
+      {
+        "title": "研究者倫理特別講義",
+        "url": "https://lms.ealps.shinshu-u.ac.jp/2025/st/course/view.php?id=3"
+      },
+      {
+        "title": "APRIN",
+        "url": "https://edu.aprin.or.jp/my/"
+      }
+    ]
+  }
+]
